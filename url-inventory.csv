@@ -1,0 +1,6 @@
+Old URL,Action,Destination,Reason,Owner,Verified
+/about/,Keep,/about/,Relevant page retained,,
+/old-products/paper-insert.html,301,/products/paper-insert/,Same product at new URL,,
+/old-contact.html,301,/contact/,Contact purpose retained,,
+/company-profile.html,301,/about/,Company content consolidated,,
+/expired-campaign/,404 or 410,,No relevant replacement,,
