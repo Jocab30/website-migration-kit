@@ -1,0 +1,7 @@
+Work,Deliverable,Acceptance check,Owner
+Technical review,"Issue URLs, severity, proposed changes",Reproduce issues and assign responsibility,
+Implementation,"Change record, affected pages, test results",Inspect updated pages and rollback instructions,
+Content planning,"Buyer questions, destination pages, overlap review",Confirm each page has a distinct purpose,
+Content delivery,"Drafts, sources, internal links, metadata",Review factual claims and the actual page,
+Publishing,Live URLs and sitemap change record,Verify pages are reachable and indexability is intended,
+Measurement,"Consistent date filters, interpretation, next steps","Check dates, scope and original reports",
