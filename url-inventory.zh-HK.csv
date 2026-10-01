@@ -1,0 +1,6 @@
+Old path,Action,Destination,Reason,理由
+/about/,Keep,/about/,Relevant content retained,保留相關內容
+/old-products/paper-insert.html,301,/products/paper-insert/,Same product at new URL,相同產品的新網址
+/old-contact.html,301,/contact/,Contact purpose retained,保留聯絡用途
+/company-profile.html,301,/about/,Company content consolidated,整合公司資料
+/expired-campaign/,404 or 410,,No relevant replacement,沒有相關替代內容
