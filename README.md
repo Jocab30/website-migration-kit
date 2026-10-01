@@ -21,7 +21,7 @@ Traditional Chinese versions: [URL inventory](url-inventory.zh-HK.csv), [project
 1. Download the ZIP using **Code → Download ZIP**, or clone this repository.
 2. Open the CSV files in a spreadsheet. Retain useful old URLs, select relevant replacements, and assign an owner to each decision.
 3. Export only the old URL and destination for rows that actually redirect. Use tabs between the two columns, remove the header, and retain one mapping per line.
-4. Review the map with the [Redirect Map Checker](https://zequnweb.com/tools/redirect-map-checker/) or its [local JavaScript version](https://github.com/Jocab30/redirect-map-checker).
+4. Review the map with the [Redirect Map Checker](https://zequnweb.com/tools/redirect-map-checker/) or its [local JavaScript version](https://github.com/awesomellm/redirect-map-checker).
 5. Implement the rules on the host, then test the actual HTTP responses, destination content, internal links, and indexing settings.
 6. Record form delivery, launch approval, rollback responsibility, and post-launch issues in the checklist.
 
