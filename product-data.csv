@@ -1,0 +1,8 @@
+﻿Item,Requirement or decision,Acceptance evidence,Owner,Status
+Model,Use one stable model identifier,"Page, download and inquiry use the same model",,
+Specifications,"Record values, units and source version",Values match an approved source,,
+MOQ,Specify unit and conditions,Quantity wording is unambiguous,,
+Samples,Explain availability and request route,Buyer understands the next step,,
+Lead time,State range and starting condition,Sales has reviewed the statement,,
+Documents,Attach model-specific accessible files,Download matches model and revision,,
+Evidence,Match certificates to scope and expiry,Public statement fits the actual evidence,,

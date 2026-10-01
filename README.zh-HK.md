@@ -18,6 +18,21 @@
 
 本頁連結的 CSV 範本均為繁體中文。
 
+## 交付模板與實作指南
+
+[完整網站遷移流程](MIGRATION.zh-HK.md)
+
+這些 UTF-8 CSV 表格涵蓋企業網站的關鍵決策。為每項指定負責人並保存證據；共享表格不要填寫密碼或客戶私人資料。
+
+- [內容收集](content-collection.zh-HK.csv)
+- [產品資料](product-data.zh-HK.csv)
+- [查詢驗收](inquiry-acceptance.zh-HK.csv)
+- [項目交接](handover-checklist.zh-HK.csv)
+- [維護計劃](maintenance-plan.zh-HK.csv)
+- [案例證據](case-evidence.zh-HK.csv)
+- [量測計劃](tracking-plan.zh-HK.csv)
+- [多語言內容映射](multilingual-content-map.zh-HK.csv)
+
 ## 使用步驟
 
 1. 從儲存庫的程式碼選單下載 ZIP 壓縮檔，或複製本儲存庫至本機。

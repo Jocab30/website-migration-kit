@@ -1,0 +1,8 @@
+﻿Item,Requirement or decision,Acceptance evidence,Owner,Status
+Required fields,Ask only for necessary contact and request details,Empty and invalid values are rejected,,
+Model context,Carry the selected model into the request,Receiver sees the selected model,,
+Receiving,Confirm a receipt at the receiving system,A traceable receipt exists,,
+Mail draft,Distinguish opening a draft from receiving,No received claim is shown for a draft,,
+Failure handling,Show retry and an alternate contact route,Failure does not look like success,,
+Privacy,Limit recorded fields and retention,Analytics omits message and contact details,,
+Business response,Assign a responder and follow-up process,Business confirms the test request,,

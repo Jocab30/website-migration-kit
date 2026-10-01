@@ -1,0 +1,7 @@
+﻿Item,Requirement or decision,Acceptance evidence,Owner,Status
+URL group,Fix the set of affected pages,Before and after use the same group,,
+Window,Use comparable complete reporting periods,Dates and exclusions are recorded,,
+Search,Record clicks and impressions by page and query,Source export is kept outside public examples,,
+Interaction,Record relevant service or tool actions,Event definition is documented,,
+Inquiry,Count confirmed received qualified requests,Drafts and failed submissions are excluded,,
+Interpretation,Record seasonality and small samples,Conclusions reflect the evidence limits,,

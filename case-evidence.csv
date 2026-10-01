@@ -1,0 +1,7 @@
+﻿Item,Requirement or decision,Acceptance evidence,Owner,Status
+Scope,"State whether work is client, self-owned or a concept",Labels match the actual relationship,,
+Baseline,Save comparable before measurements,"Date, method and sample are recorded",,
+Change,Identify the actual changed component,Code or artifact demonstrates the change,,
+Validation,Describe the check and its coverage,Results can be reproduced or inspected,,
+Outcome,Separate technical findings from business results,Only measured outcomes are claimed,,
+Permission,Confirm permission for screenshots and quotations,Public materials are authorized,,

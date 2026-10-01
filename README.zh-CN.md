@@ -18,6 +18,21 @@
 
 本页链接的 CSV 模板均为简体中文。
 
+## 交付模板与实战指南
+
+[完整网站迁移流程](MIGRATION.zh-CN.md)
+
+这些 UTF-8 CSV 表格覆盖企业网站的关键决策。为每项指定责任人并保存证据；共享表格中不要填写密码或客户私密资料。
+
+- [内容收集](content-collection.zh-CN.csv)
+- [产品数据](product-data.zh-CN.csv)
+- [询盘验收](inquiry-acceptance.zh-CN.csv)
+- [项目交接](handover-checklist.zh-CN.csv)
+- [维护计划](maintenance-plan.zh-CN.csv)
+- [案例证据](case-evidence.zh-CN.csv)
+- [测量计划](tracking-plan.zh-CN.csv)
+- [多语言内容映射](multilingual-content-map.zh-CN.csv)
+
 ## 使用顺序
 
 1. 从仓库的代码菜单下载 ZIP 压缩包，或克隆本仓库。

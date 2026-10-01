@@ -18,6 +18,21 @@
 
 このページでリンクしている CSV テンプレートは、すべて日本語です。
 
+## 納品テンプレートと実践ガイド
+
+[サイト移行の全手順](MIGRATION.ja.md)
+
+企業サイトの判断を記録する UTF-8 CSV です。各項目に担当者と証拠を付けてください。共有表にパスワードや顧客の非公開情報を記入しません。
+
+- [コンテンツ収集](content-collection.ja.csv)
+- [製品データ](product-data.ja.csv)
+- [問い合わせ検収](inquiry-acceptance.ja.csv)
+- [引き継ぎ](handover-checklist.ja.csv)
+- [保守計画](maintenance-plan.ja.csv)
+- [事例の証拠](case-evidence.ja.csv)
+- [測定計画](tracking-plan.ja.csv)
+- [多言語コンテンツ対応表](multilingual-content-map.ja.csv)
+
 ## 使用手順
 
 1. リポジトリのコードメニューから ZIP をダウンロードするか、このリポジトリをクローンします。

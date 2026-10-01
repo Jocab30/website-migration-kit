@@ -1,0 +1,7 @@
+﻿Item,Requirement or decision,Acceptance evidence,Owner,Status
+Source page,Assign a stable content identifier,Equivalent pages share the intended identity,,
+Locale,Choose actual published language and region,HTML language fits visible content,,
+Translated page,Map to a reviewed destination,The target exists in the selected language,,
+Language switch,Link to the equivalent page,Each switch opens the expected content,,
+Search metadata,Review canonical and reciprocal alternates,URLs identify real equivalent pages,,
+Downloads,Translate headings and instructions,Document language matches the page,,

@@ -1,0 +1,8 @@
+﻿Item,Requirement or decision,Acceptance evidence,Owner,Status
+Domain renewal,Assign expiry review and renewal owner,Expiry and reminder route are recorded,,
+Dependencies,Review supported versions and advisories,Update decision and regression results exist,,
+Backups,Schedule checks appropriate to changes,Restore has been tested,,
+Forms,Test receipt and failure path,Receiver confirms a controlled test,,
+Content,Review specification and contact changes,Changes have a named approver,,
+Site checks,"Review links, index settings and redirects",Problems have owners and follow-up,,
+Budget,Agree recurring fees and optional work,Scope and costs are recorded,,

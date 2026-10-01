@@ -1,0 +1,8 @@
+﻿Item,Requirement or decision,Acceptance evidence,Owner,Status
+Domain and DNS,Record administrator and renewal responsibility,Business can find the account and DNS,,
+Hosting,Record roles and deployment steps,Current version and rollback can be located,,
+Code and design,Deliver the agreed sources and instructions,An authorized user can rebuild or edit,,
+Content,"Deliver source files, media rights and versions",Sample export is readable,,
+Receiving systems,Record inbox or service administration,An agreed end-to-end test is received,,
+Backups,Define coverage and restore procedure,Restore steps can be exercised,,
+Support,"Document scope, period and escalation",Both parties can identify the support boundary,,

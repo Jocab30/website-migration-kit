@@ -18,6 +18,21 @@ Practical URL planning, project brief, and launch acceptance templates for websi
 
 The CSV templates linked here are in English. Use the language links above for translated templates.
 
+## Delivery templates and practical guide
+
+[Complete migration workflow](MIGRATION.md)
+
+These UTF-8 CSV worksheets cover the decisions around a business website. Assign an owner and attach evidence; do not place passwords or private customer data in a shared worksheet.
+
+- [Content collection](content-collection.csv)
+- [Product data](product-data.csv)
+- [Inquiry acceptance](inquiry-acceptance.csv)
+- [Project handover](handover-checklist.csv)
+- [Maintenance plan](maintenance-plan.csv)
+- [Case evidence](case-evidence.csv)
+- [Measurement plan](tracking-plan.csv)
+- [Multilingual content map](multilingual-content-map.csv)
+
 ## How to use
 
 1. Download the ZIP using **Code → Download ZIP**, or clone this repository.
