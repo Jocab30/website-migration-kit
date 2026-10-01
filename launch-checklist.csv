@@ -1,0 +1,13 @@
+Stage,Check,Acceptance evidence,Owner,Status
+Baseline,Record useful URLs and query/page baseline,Dated export with country/device filters,,
+Content,Decide keep/rewrite/merge/move/retire,URL inventory approved,,
+Migration,Assign relevant replacements,Reviewed map without loops or conflicts,,
+Migration,Validate deployed HTTP responses,Old URLs redirect permanently where intended; destinations resolve,,
+Indexing,Check robots and canonical settings,Intended pages accessible; no accidental noindex; correct self-canonicals,,
+Languages,Verify language alternatives where used,Reciprocal hreflang and correct locale destinations,,
+Navigation,Review internal links and sitemap,Links and sitemap use intended final URLs,,
+Forms,Test success and failure delivery,Receiver confirms test enquiry; failure remains visible,,
+Interface,Check mobile and keyboard paths,Recorded device and keyboard checks,,
+Analytics,Check consent and actual events,Consent respected; received enquiries separated from handoff clicks,,
+Launch,Assign approver and rollback owner,Release decision and restore instructions recorded,,
+Follow-up,Review production and search changes,Dated issue log and comparable reporting periods,,
