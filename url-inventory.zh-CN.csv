@@ -1,0 +1,6 @@
+﻿旧 URL,处理方式,目标 URL,理由,责任人,验证结果
+/about/,保留,/about/,保留相关页面,,
+/old-products/paper-insert.html,301,/products/paper-insert/,相同产品迁移到新 URL,,
+/old-contact.html,301,/contact/,保留联系用途,,
+/company-profile.html,301,/about/,整合公司介绍内容,,
+/expired-campaign/,404 或 410,,没有相关的替代页面,,

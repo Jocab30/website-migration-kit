@@ -4,26 +4,26 @@
 
 用于网站改版的 URL 清单、项目需求、SEO 交付和上线验收模板。示例路径为虚构数据，使用时替换成项目实际内容。
 
-[网站改版流程](https://zequnweb.com/blog/website-redesign-checklist/)（英文）。
+[网站改版流程](https://zequnweb.com/zh/blog/website-redesign-checklist/)。
 
 ## 文件
 
 | 文件 | 用途 |
 | --- | --- |
-| [url-inventory.csv](url-inventory.csv) | 决定页面保留、迁移、合并或下线，记录责任人和验证结果 |
+| [url-inventory.zh-CN.csv](url-inventory.zh-CN.csv) | 决定页面保留、迁移、合并或下线，记录责任人和验证结果 |
 | [redirect-map.tsv](redirect-map.tsv) | 三条直接重定向样例，与检查器兼容 |
-| [project-brief.csv](project-brief.csv) | 整理受众、范围、语言、资料、系统集成和验收标准 |
-| [seo-deliverables.csv](seo-deliverables.csv) | 为每项 SEO 工作明确可检查的交付物和责任人 |
-| [launch-checklist.csv](launch-checklist.csv) | 检查内容、重定向、索引、表单、设备适配和上线责任 |
+| [project-brief.zh-CN.csv](project-brief.zh-CN.csv) | 整理受众、范围、语言、资料、系统集成和验收标准 |
+| [seo-deliverables.zh-CN.csv](seo-deliverables.zh-CN.csv) | 为每项 SEO 工作明确可检查的交付物和责任人 |
+| [launch-checklist.zh-CN.csv](launch-checklist.zh-CN.csv) | 检查内容、重定向、索引、表单、设备适配和上线责任 |
 
-默认 CSV 模板为英文。另有三份繁体中文版本：[URL 清单](url-inventory.zh-HK.csv)、[项目需求表](project-brief.zh-HK.csv)、[SEO 交付表](seo-deliverables.zh-HK.csv)。
+本页链接的 CSV 模板均为简体中文。
 
 ## 使用顺序
 
 1. 从仓库的代码菜单下载 ZIP 压缩包，或克隆本仓库。
 2. 用电子表格打开 CSV 文件。保留有价值的旧 URL，选择相关的新目标，为每项决策指定责任人。
 3. 只导出真正需要重定向的页面，保留旧 URL 和目标 URL 两列，以制表符分隔，删除表头，每行一条映射。
-4. 用[在线重定向检查器](https://zequnweb.com/tools/redirect-map-checker/)（英文界面）或[本地 JavaScript 版本](https://github.com/awesomellm/redirect-map-checker/blob/main/README.zh-CN.md)检查映射。
+4. 用[本地重定向检查器](https://github.com/awesomellm/redirect-map-checker/blob/main/README.zh-CN.md)检查映射。
 5. 在服务器配置规则，再测试实际 HTTP 响应、目标内容、内部链接和索引设置。
 6. 在验收表中记录表单投递、上线审批、回退责任和上线后的问题。
 
@@ -35,8 +35,8 @@
 
 ## 参考资料
 
-- [Google：更改网址的网站迁移](https://developers.google.com/search/docs/crawling-indexing/site-move-with-url-changes)
-- [ZequnWeb：网站改版检查清单](https://zequnweb.com/blog/website-redesign-checklist/)（英文）
+- [Google：更改网址的网站迁移](https://developers.google.com/search/docs/crawling-indexing/site-move-with-url-changes?hl=zh-CN)
+- [ZequnWeb：网站改版检查清单](https://zequnweb.com/zh/blog/website-redesign-checklist/)
 
 ## 参与改进
 
@@ -44,4 +44,4 @@
 
 ## 维护者与许可
 
-由独立 B2B 网站设计与开发工作室 [ZequnWeb](https://zequnweb.com/zh/) 整理。模板与文档使用 [MIT 许可证](LICENSE)。
+由独立 B2B 网站设计与开发工作室 [ZequnWeb](https://zequnweb.com/zh/) 整理。模板与文档使用 MIT 许可证（`LICENSE`）。

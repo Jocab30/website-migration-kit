@@ -1,0 +1,6 @@
+﻿旧 URL,対応,転送先 URL,理由,担当者,確認結果
+/about/,維持,/about/,関連するページを維持する,,
+/old-products/paper-insert.html,301,/products/paper-insert/,同じ製品を新しい URL に移す,,
+/old-contact.html,301,/contact/,問い合わせの用途を維持する,,
+/company-profile.html,301,/about/,会社紹介の内容を統合する,,
+/expired-campaign/,404 または 410,,関連する代替ページがない,,
